@@ -51,7 +51,6 @@ int Train::getLength() {
     return steps;
 }
 
-int Train::getOpCount()
-{
+int Train::getOpCount() {
     return countOp;
 }
